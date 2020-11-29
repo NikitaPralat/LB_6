@@ -23,7 +23,7 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-[Bb]in/
+
 [Oo]bj/
 [Ll]og/
 
@@ -325,7 +325,7 @@ OpenCover/
 ASALocalRun/
 
 # MSBuild Binary and Structured Log
-
+*.binlog
 
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
